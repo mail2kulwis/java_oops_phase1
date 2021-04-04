@@ -1,0 +1,3 @@
+This is a simple file
+This is another message
+New change
